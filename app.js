@@ -29,7 +29,7 @@ function isPrime(num){
     if(num<2){
         prime =  false
     
-          console.log("wow cool")
+          console.log("gg")
             endTime = new Date()
             prime= false
             break;
